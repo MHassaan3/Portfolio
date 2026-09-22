@@ -14,7 +14,7 @@ A personal portfolio website built with HTML, CSS, and JavaScript.
 - JavaScript
 
 ## Live Demo
-[View Portfolio](https://your-username.github.io/portfolio)
+[View Portfolio]([https://your-username.github.io/portfolio](https://mhassaan3.github.io/Portfolio/))
 
 ## Contact
 - Email: itstore2003@gmail.com
