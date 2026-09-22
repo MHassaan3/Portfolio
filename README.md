@@ -33,13 +33,16 @@ A modern, responsive personal portfolio built with HTML, CSS, and JavaScript.
 ---
 
 ## Project Structure
+
+```
 Portfolio/
 ├── index.html
 ├── style.css
 ├── script.js
 ├── README.md
 └── Asset/
-└── (images and icons)
+    └── (images and icons)
+```
 
 
 ---
