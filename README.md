@@ -28,14 +28,11 @@ A modern, responsive personal portfolio built with HTML, CSS, and JavaScript.
 
 ## Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ---
 
 ## Project Structure
-
 Portfolio/
 ├── index.html
 ├── style.css
@@ -53,8 +50,7 @@ Portfolio/
 git clone https://github.com/Mhassaan3/Portfolio.git
 cd Portfolio
 Then open index.html in your browser.
-
----
+```
 
 Contact
 M. Hassaan — UI/UX Designer & Frontend Developer
@@ -64,6 +60,3 @@ M. Hassaan — UI/UX Designer & Frontend Developer
 📞 +92 324 7799127
 
 📍 Gujranwala, Pakistan
-
-
----
