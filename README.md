@@ -54,6 +54,8 @@ git clone https://github.com/Mhassaan3/Portfolio.git
 cd Portfolio
 Then open index.html in your browser.
 
+---
+
 Contact
 M. Hassaan — UI/UX Designer & Frontend Developer
 
